@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+header img {
+    border: 4px solid #ffffff;
+}
+
+#habilidades .progress-bar {
+    font-size: 0.9rem;
+    transition: width 2s ease-in-out;
+}
+
+
+
+#portafolio h3 {
+    color: #007bff;
+}
+
+.list-group-item a {
+    text-decoration: none;
+    color: #007bff;
+    
+}
+
+.list-group-item a:hover {
+    text-decoration: underline;
+}
+
+.invalid-feedback {
+    font-size: 0.9rem;
+    color: red;
+}   
+
+footer a {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    color: #ffee99;
+}
